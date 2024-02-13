@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Taehyun Hwang
+title: Joongkyu Lee
 
 # Full name (for SEO)
-first_name: Taehyun
-last_name: Hwang
+first_name: Joongkyu
+last_name: Lee
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,8 +18,8 @@ organizations:
     url: https://gsds.snu.ac.kr
   - name: Seoul National University
     url: https://www.snu.ac.kr/index.html
-  - name: th.hwang@snu.ac.kr
-    url: mailto:th.hwang@snu.ac.kr
+  - name: jklee0717@snu.ac.kr
+    url: mailto:jklee0717@snu.ac.kr
 # Short bio (displayed in user profile at end of posts)
 bio: 
 #My research interests include __reinforcement learning__, __learning theory__, __statistical machine learning__ and their applications.
@@ -36,12 +36,12 @@ education:
   courses:
     - course: Ph.D. candidate in Data Science
       institution: Seoul National University
-      year: 2020 - Present
-    - course: MS in Mathematics
-      institution: Sungkyunkwan University
-      year: 2016 - 2018
-    - course: BS in Mathematics
-      institution: Kyungpook National University
+      year: 2023 - Present
+    - course: MS in Data Science
+      institution: Seoul National University
+      year: 2021 - 2023
+    - course: BS in Industrial Engineering
+      institution: Yonsei University
       year: 2010 - 2016
 
 # Social/Academic Networking
