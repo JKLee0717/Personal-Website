@@ -27,7 +27,8 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Sequential Decision Making
+  - Reinforcement Learning
+  - Bandit Algorithms
   - Statistical Machine Learning
   # - Optimization for Machine Learning
 
@@ -39,10 +40,10 @@ education:
       year: 2023 - Present
     - course: MS in Data Science
       institution: Seoul National University
-      year: 2021 - 2023
+      year: 2023
     - course: BS in Industrial Engineering
       institution: Yonsei University
-      year: 2010 - 2016
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
