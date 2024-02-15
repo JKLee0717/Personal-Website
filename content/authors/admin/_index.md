@@ -27,9 +27,10 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Reinforcement Learning
+  - Sequential Decision Making
+  - Reinforcement Learning 
   - Bandit Algorithms
-  - Statistical Machine Learning
+  - Machine Learning
   # - Optimization for Machine Learning
 
 # Education to show in About widget
@@ -64,7 +65,7 @@ social:
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
-    link: https://scholar.google.co.kr/citations?user=iTrVCvAAAAAJ&hl    
+    link: https://scholar.google.com/citations?user=YWZakwkAAAAJ&hl   
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/driedpollack
@@ -85,10 +86,11 @@ email: ''
 highlight_name: true
 ---
 
-Taehyun Hwang is a Ph.D. candidate in the [Graduate School of Data Science](https://gsds.snu.ac.kr) at [Seoul National University](https://www.snu.ac.kr/), under the supervision of Prof. [Min-hwan Oh](https://minoh.io).
-He received MS in Mathematics under the supervison of Prof. [Yongdo Lim](https://dblp.org/pid/25/3420.html) and Prof. [Rhee Man Kil](https://scholar.google.com/citations?user=dTiJInMAAAAJ&hl=en) from Sungkyunkwan University, and BS in Mathematics from Kyungpook National University.
+Joongkyu Lee is a Ph.D. candidate in the [Graduate School of Data Science](https://gsds.snu.ac.kr) at [Seoul National University](https://www.snu.ac.kr/), under the supervision of Prof. [Min-hwan Oh](https://minoh.io).
+He received MS in the Graduate School of Data Science under the supervison of Prof. [Min-hwan Oh](https://minoh.io) from Seoul National University, and BS in Industrial Engineering from Yonsei University.
 
-His research lies at the intersection of machine learning and decision making under uncertainty, including reinforcement learning, contextual bandits, and statistical machine learning.
-He is interested in extending mathematical principles and uncovering fundamental limits of machine learning algorithms.
+His primary research interests are in sequential decision making, reinforcement learning, bandit algorithms, statstical machine learning and their practical applications. 
+His ultimate research goal is to develop algorithms that are both theoretically provable and practically implementable.
+
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
