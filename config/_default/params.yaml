@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '[Curriculum Vitae　](uploads/resume.pdf)  [Google Scholar　](https://scholar.google.co.kr/citations?user=iTrVCvAAAAAJ&hl) © {year} Taehyun Hwang' # '© {year} Me. This work is licensed under {license}'
+    notice: '[Curriculum Vitae　](uploads/resume.pdf)  [Google Scholar　](https://scholar.google.com/citations?user=YWZakwkAAAAJ&hl) © {year} Joongkyu Lee' # '© {year} Me. This work is licensed under {license}'
     # license:
     #   enable: true
     #   allow_derivatives: false
