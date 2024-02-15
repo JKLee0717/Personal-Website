@@ -21,14 +21,14 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
-  - title: Research Assistant
-    company: The Reserach Institute of Basic Science, Sungkyunkwan University
-    # company_url: ''
-    # company_logo: skku
-    location: Suwon, Republic of Korea
-    date_start: '2018-09-01'
-    date_end: '2020-02-28'
+# experience:
+#   - title: Research Assistant
+#     company: The Reserach Institute of Basic Science, Sungkyunkwan University
+#     # company_url: ''
+#     # company_logo: skku
+#     location: Suwon, Republic of Korea
+#     date_start: '2018-09-01'
+#     date_end: '2020-02-28'
   # - title: CEO
   #   company: GenCoin
   #   company_url: ''
