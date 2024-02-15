@@ -1,11 +1,13 @@
 ---
-title: 'Model-Based Reinforcement Learning with Multinomial Logistic Function Approximation'
+title: 'Learning Uncertainty-Aware Temporally-Extended Actions'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Seung Joon Park
+  - Yunhao Tang
   - Min-hwan Oh
 
 # Author notes (optional)
@@ -13,11 +15,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022-12-01T00:00:00Z'
+date: '2023-12-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-02-01T00:00:00Z'
+publishDate: '2024-02-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,10 +28,10 @@ publishDate: '2023-02-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: _Proceedings of the 37th AAAI Conference on Artificial Intelligence_ (__AAAI__), 2023
-publication_short: _AAAI_ 2023 [Oral presentation]
+publication: _Proceedings of the 38th AAAI Conference on Artificial Intelligence_ (__AAAI__), 2024
+publication_short: _AAAI_ 2024 
 
-abstract: We study model-based reinforcement learning (RL) for episodic Markov decision processes (MDP) whose transition probability is parametrized by an unknown transition core with features of state and action. Despite much recent progress in analyzing algorithms in the linear MDP setting, the understanding of more general transition models is very restrictive. In this paper, we establish a provably efficient RL algorithm for the MDP whose state transition is given by a multinomial logistic model. To balance the exploration-exploitation trade-off, we propose an upper confidence bound-based algorithm. We show that our proposed algorithm achieves $\tilde{\mathcal{O}}(d \sqrt{H^3 T})$ regret bound where $d$ is the dimension of the transition core, $H$ is the horizon, and $T$ is the total number of steps. To the best of our knowledge, this is the first model-based RL algorithm with multinomial logistic function approximation with provable guarantees. We also comprehensively evaluate our proposed algorithm numerically and show that it consistently outperforms the existing methods, hence achieving both provable efficiency and practical superior performance.
+abstract: In reinforcement learning, temporal abstraction in the action space, exemplified by action repetition, is a technique to facilitate policy learning through extended actions. However, a primary limitation in previous studies of action repetition is its potential to degrade performance, particularly when sub-optimal actions are repeated. This issue often negates the advantages of action repetition. To address this, we propose a novel algorithm named Uncertainty-aware Temporal Extension (UTE). UTE employs ensemble methods to accurately measure uncertainty during action extension. This feature allows policies to strategically choose between emphasizing exploration or adopting an uncertainty-averse approach, tailored to their specific needs. We demonstrate the effectiveness of UTE through experiments in Gridworld and Atari 2600 environments. Our findings show that UTE outperforms existing action repetition algorithms, effectively mitigating their inherent limitations and significantly enhancing policy learning efficiency.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
