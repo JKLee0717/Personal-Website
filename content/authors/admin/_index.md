@@ -89,8 +89,8 @@ highlight_name: true
 Joongkyu Lee is a Ph.D. candidate in the [Graduate School of Data Science](https://gsds.snu.ac.kr) at [Seoul National University](https://www.snu.ac.kr/), under the supervision of Prof. [Min-hwan Oh](https://minoh.io).
 He received MS in the Graduate School of Data Science under the supervison of Prof. [Min-hwan Oh](https://minoh.io) from Seoul National University, and BS in Industrial Engineering from Yonsei University.
 
-His primary research interests are in sequential decision making, reinforcement learning, bandit algorithms, statstical machine learning and their practical applications. 
-His ultimate research goal is to develop algorithms that are both theoretically provable and practically implementable.
+His primary research interests are in **sequential decision making, reinforcement learning, bandit algorithms, statstical machine learning** and their practical applications. 
+His ultimate research goal is to develop algorithms that are both **theoretically provable** and **practically implementable**.
 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
