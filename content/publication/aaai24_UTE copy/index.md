@@ -6,8 +6,6 @@ title: 'Demystifying Linear MDPs and Novel Dynamics Aggregation Framework'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Seung Joon Park
-  - Yunhao Tang
   - Min-hwan Oh
 
 # Author notes (optional)
@@ -15,7 +13,7 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2023-12-01T00:00:00Z'
+date: '2024-01-16T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
