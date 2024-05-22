@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '[Curriculum Vitae　](/static/uploads/resume.pdf) [Google Scholar　](https://scholar.google.com/citations?user=YWZakwkAAAAJ&hl) © {year} Joongkyu Lee' # '© {year} Me. This work is licensed under {license}'
+    notice: '[Curriculum Vitae　](/uploads/resume.pdf) [Google Scholar　](https://scholar.google.com/citations?user=YWZakwkAAAAJ&hl) © {year} Joongkyu Lee' # '© {year} Me. This work is licensed under {license}'
     # [Curriculum Vitae　](uploads/resume.pdf) 
     # license:
     #   enable: true
