@@ -30,8 +30,8 @@ interests:
   - Sequential Decision Making
   - Reinforcement Learning 
   - Bandit Algorithms
-  - Machine Learning
-  # - Optimization for Machine Learning
+  - Statistical Machine Learning
+  - Optimization for Machine Learning
 
 # Education to show in About widget
 education:
