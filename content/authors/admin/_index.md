@@ -31,7 +31,7 @@ interests:
   - Reinforcement Learning 
   - Bandit Algorithms
   - Statistical Machine Learning
-  - Optimization for Machine Learning
+  - Optimization 
 
 # Education to show in About widget
 education:
