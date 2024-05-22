@@ -16,7 +16,7 @@ main:
   # - name: Talks
   #   url: '#talks'
   #   weight: 40
-  - name: Publications
+  - name: Publications & Preprints
     url: './publication/' #'#featured'
     weight: 20
   # - name: Preprints
