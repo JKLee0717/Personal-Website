@@ -24,7 +24,7 @@ publication_types: ['3']
 publication: Preprint. Under review. Uploaded to arXiv.
 publication_short: Preprint.
 
-abstract: 
+abstract: In this paper, we study the contextual multinomial logit (MNL) bandit problem in which a learning agent sequentially selects an assortment based on contextual information, and user feedback follows an MNL choice model. There has been a significant discrepancy between lower and upper regret bounds, particularly regarding the feature dimension $d$ and the maximum assortment size $K$. Additionally, the variation in reward structures between these bounds complicates the quest for optimality. Under uniform rewards, where all items have the same expected reward, we establish a regret lower bound of $\Omega(d\sqrt{\smash[b]{T/K}})$ and propose a constant-time algorithm, OFU-MNL+, that achieves a matching upper bound of $\tilde{\mathcal{O}}(d\sqrt{\smash[b]{T/K}})$. Under non-uniform rewards, we prove a lower bound of $\Omega(d\sqrt{T})$ and an upper bound of $\tilde{\mathcal{O}}(d\sqrt{T})$, also achievable by OFU-MNL+. Our empirical studies support these theoretical findings. To the best of our knowledge, this is the first work in the contextual MNL bandit literature to prove minimax optimality --- for either uniform or non-uniform reward setting --- and to propose a computationally efficient algorithm that achieves this optimality up to logarithmic factors.
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: 'https://openreview.net/pdf?id=RDSj6S8WJe'
+url_pdf: 'https://arxiv.org/abs/2405.09831'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'
