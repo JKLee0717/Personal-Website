@@ -1,14 +1,14 @@
 ---
 title: 'Randomized Exploration for Reinforcement Learning with Multinomial Logistic Function Approximation'
 authors:
-- Wooseong Cho\*
-- Taehyun Hwang\*
+- Wooseong Cho
+- Taehyun Hwang
 - admin
 - Min-hwan Oh
 # Author notes (optional)
 author_notes:
-  - '\*: Equal contribution'
-#   - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
 
 date: '2024-05-31T00:00:00Z'
 doi: ''
@@ -38,7 +38,7 @@ featured: false
 # links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: 'https://arxiv.org/pdf/2405.09831'
+url_pdf: 'https://arxiv.org/pdf/2405.20165'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'
