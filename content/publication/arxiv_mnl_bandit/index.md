@@ -12,17 +12,17 @@ date: '2024-05-17T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-05-17T00:00:00Z' # "2017-01-01T00:00:00Z"
+publishDate: '2024-12-15T00:00:00Z' # "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: __arXiv__, 2024 
-publication_short: _arXiv_ 2024
+publication: _Neural Information Processing Systems_(__NeurIPS__), 2024 
+publication_short: _NeurIPS_ 2024
 
 abstract: In this paper, we study the contextual multinomial logit (MNL) bandit problem in which a learning agent sequentially selects an assortment based on contextual information, and user feedback follows an MNL choice model. There has been a significant discrepancy between lower and upper regret bounds, particularly regarding the maximum assortment size $K$. Additionally, the variation in reward structures between these bounds complicates the quest for optimality. Under uniform rewards, where all items have the same expected reward, we establish a regret lower bound of $\Omega(d\sqrt{\smash[b]{T/K}})$ and propose a constant-time algorithm, $\texttt{OFU-MNL+}$, that achieves a matching upper bound of $\tilde{\mathcal{O}}(d\sqrt{\smash[b]{T/K}})$. Under non-uniform rewards, we prove a lower bound of $\Omega(d\sqrt{T})$ and an upper bound of $\tilde{\mathcal{O}}(d\sqrt{T})$, also achievable by $\texttt{OFU-MNL+}$. Our empirical studies support these theoretical findings. To the best of our knowledge, this is the first work in the contextual MNL bandit literature to prove minimax optimality --- for either uniform or non-uniform reward setting --- and to propose a computationally efficient algorithm that achieves this optimality up to logarithmic factors.
 
