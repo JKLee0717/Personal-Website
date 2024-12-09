@@ -1,5 +1,5 @@
 ---
-title: 'Nearly Minimax Optimal Regret for Multinomial Logistic Bandit'
+title: 'Nearly Minimax Optimal Regret for Multinomial Logistic Bandit (**TOP 0.2%!, 32/15671**)'
 authors:
 - admin
 - Min-hwan Oh
