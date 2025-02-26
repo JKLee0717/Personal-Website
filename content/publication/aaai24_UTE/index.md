@@ -46,7 +46,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ojs.aaai.org/index.php/AAAI/article/view/29241'
+url_pdf: 'https://arxiv.org/pdf/2402.05439'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: 'publication/aaai23_ucrl-mnl/poster.pdf'
