@@ -28,7 +28,7 @@ publishDate: '2024-02-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: _Proceedings of the 38th AAAI Conference on Artificial Intelligence_ (__AAAI__), 2024
+publication: _AAAI Conference on Artificial Intelligence_ (__AAAI__), 2024
 publication_short: _AAAI_ 2024 
 
 abstract: In reinforcement learning, temporal abstraction in the action space, exemplified by action repetition, is a technique to facilitate policy learning through extended actions. However, a primary limitation in previous studies of action repetition is its potential to degrade performance, particularly when sub-optimal actions are repeated. This issue often negates the advantages of action repetition. To address this, we propose a novel algorithm named Uncertainty-aware Temporal Extension ($\texttt{UTE}$). $\texttt{UTE}$ employs ensemble methods to accurately measure uncertainty during action extension. This feature allows policies to strategically choose between emphasizing exploration or adopting an uncertainty-averse approach, tailored to their specific needs. We demonstrate the effectiveness of $\texttt{UTE}$ through experiments in Gridworld and Atari 2600 environments. Our findings show that $\texttt{UTE}$ outperforms existing action repetition algorithms, effectively mitigating their inherent limitations and significantly enhancing policy learning efficiency.
@@ -46,7 +46,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ojs.aaai.org/index.php/AAAI/article/view/29241'
+url_pdf: 'https://arxiv.org/pdf/2402.05439'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: 'publication/aaai23_ucrl-mnl/poster.pdf'

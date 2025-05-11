@@ -10,21 +10,21 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2024-05-31T00:00:00Z'
+date: '2024-09-25T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-05-31T00:00:00Z' # "2017-01-01T00:00:00Z"
+publishDate: '2024-09-25T00:00:00Z' # "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: __arXiv__, 2024 
-publication_short: _arXiv_ 2024
+publication: _Neural Information Processing Systems_ (__NeurIPS__), 2024 
+publication_short: _NeurIPS_ 2024
 
 abstract: We study reinforcement learning with *multinomial logistic* (MNL) function approximation where the underlying transition probability kernel of the *Markov decision processes* (MDPs) is parametrized by an unknown transition core with features of state and action. For the finite horizon episodic setting with inhomogeneous state transitions, we propose provably efficient algorithms with randomized exploration having frequentist regret guarantees. For our first algorithm, $\texttt{RRL-MNL}$, we adapt optimistic sampling to ensure the optimism of the estimated value function with sufficient frequency and establish that $\texttt{RRL-MNL}$ is both *statistically* and *computationally* efficient, achieving a $\tilde{\mathcal{O}}(\kappa^{-1} d^{\frac{3}{2}} H^{\frac{3}{2}} \sqrt{T})$ frequentist regret bound with constant-time computational cost per episode. Here, $d$ is the dimension of the transition core, $H$ is the horizon length, $T$ is the total number of steps, and $\kappa$ is a problem-dependent constant. Despite the simplicity and practicality of $\texttt{RRL-MNL}$, its regret bound scales with $\kappa^{-1}$, which is potentially large in the worst case. To improve the dependence on $\kappa^{-1}$, we propose $\texttt{ORRL-MNL}$, which estimates the value function using local gradient information of the MNL transition model. We show that its frequentist regret bound is $\tilde{\mathcal{O}}(d^{\frac{3}{2}} H^{\frac{3}{2}} \sqrt{T} + \kappa^{-1} d^2 H^2)$. To the best of our knowledge, these are the first randomized RL algorithms for the MNL transition model that achieve both computational and statistical efficiency. Numerical experiments demonstrate the superior performance of the proposed algorithms.
 
